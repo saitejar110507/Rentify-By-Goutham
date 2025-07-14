@@ -90,9 +90,4 @@ A smart peer-to-peer (P2P) rental marketplace connecting users who want to borro
 
 ---
 
-## 🛠️ Tech Stack
-_To be determined based on app builder or framework (e.g., FlutterFlow, React, Firebase, etc.)_
-
----
-
-## 📄 License
+## 💝 Thankyou for viewing our project
